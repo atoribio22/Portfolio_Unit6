@@ -1,13 +1,12 @@
     header {
       text-align: center;
       background: url("http://mediastorage.bauermedia.co.uk/dc/b6276/1873e/927e3/730bf/b995b/5c86e/beydublinposter_778x436.jpg?1454916579");
-      background-size: cover;
       color: white;
     }
     
     #profile {
-      width: 50 px;
-      height: 50 px;
+      width: 100px;
+      height: 100px;
       text-align: center;
     }
     
